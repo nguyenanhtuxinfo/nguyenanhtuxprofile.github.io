@@ -58,12 +58,12 @@ function tips(txt){
 
 function Facebook() {
 	setTimeout(function() {
-	  window.open('https://www.facebook.com/chubedan9999', 'ultimate')},
+	  window.open('https://www.facebook.com/www.account9999', 'ultimate')},
 	100);
   }
   function Messenger() {
 	setTimeout(function() {
-	  window.open('https://m.me/chubedan99', 'ultimate')},
+	  window.open('https://m.me/www.account9999', 'ultimate')},
 	100);
   }
   function Zalo() {
@@ -73,7 +73,7 @@ function Facebook() {
   }
   function Telegram() {
 	setTimeout(function() {
-	  window.open('https://t.me/hackzscript', 'ultimate')},
+	  window.open('https://t.me/Account9999999999999999999999999', 'ultimate')},
 	100);
   }
   
