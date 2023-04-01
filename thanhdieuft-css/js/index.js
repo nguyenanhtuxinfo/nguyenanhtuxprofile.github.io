@@ -58,7 +58,7 @@ function tips(txt){
 
 function Facebook() {
 	setTimeout(function() {
-	  window.open('https://www.facebook.com/chubedan9999?mibextid=LQQJ4d', 'ultimate')},
+	  window.open('https://www.facebook.com/chubedan9999', 'ultimate')},
 	100);
   }
   function Messenger() {
